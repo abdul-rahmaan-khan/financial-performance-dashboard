@@ -46,7 +46,7 @@ All metrics can be filtered by **region**, **year**, and **product category**.
 ---
 
 ## Project Files
-- `Financial_Performance_Dashboard.pbix` – Power BI dashboard file
+- `Financial_Dashboard.pbix` – Power BI dashboard file
 - `screenshots/` – Dashboard preview images
 
 ---
@@ -57,4 +57,5 @@ This project demonstrates my ability to:
 - Work with financial metrics and KPIs
 - Translate data into clear business insights
 - Build executive-ready analytical reports
+
 
