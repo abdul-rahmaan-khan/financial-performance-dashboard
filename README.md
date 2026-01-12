@@ -4,7 +4,7 @@
 This project is a Power BI dashboard built to analyze overall financial performance across regions, products, and sales channels.  
 It focuses on revenue, cost, profit, and margin trends to support business decision-making.
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](screenshots/dashboard-overview.png)
 
 ----
 
@@ -57,3 +57,4 @@ This project demonstrates my ability to:
 - Work with financial metrics and KPIs
 - Translate data into clear business insights
 - Build executive-ready analytical reports
+
